@@ -64,9 +64,9 @@
 }
 
 @media (max-width: 575px) {
-	.about_content {
+	/* .about_content {
 		padding: 0 15px;
-	}
+	} */
 
 	.about_title {
 		font-size: 35px;
