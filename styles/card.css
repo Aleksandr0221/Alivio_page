@@ -38,14 +38,14 @@
 }
 
 .card_description {
-	width: 384px;
+	width: 380px;
 	font-size: 20px;
 	font-weight: 500;
 	color: #424242;
 }
 
 .card_img {
-	width: 100%;
+	width: 98%;
 	object-fit: cover;
 	border-radius: 12px;
 	aspect-ratio: auto 65/82;
