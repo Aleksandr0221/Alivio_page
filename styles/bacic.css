@@ -2,10 +2,15 @@
 	box-sizing: content-box;
 }
 
+html {
+	scroll-behavior: smooth;
+}
+
 body {
 	margin: 0;
 	font-family: 'Lato', sans-serif;
 	background-color: var(--color-white);
+	
 	
 }
 
